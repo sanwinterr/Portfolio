@@ -1,18 +1,14 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-image: url('san_home.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   color: #03488a;
   margin: 0;
   padding: 20px;
 }
 
-.home-background {
-  background-image: url('san_home.jpg'); /* your image */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 100vh; /* full screen */
-}
 
 .container {
   text-align: center;
